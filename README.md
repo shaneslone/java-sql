@@ -216,7 +216,7 @@ Table Name: Person Table
 
 Table Name: Pet Table
 
-|Pet Id      |Pet Name    |Pet Type    |Owner Id    |            |            |            |            |            |
+|Pet Id      |Pet Name    |Type Id     |Person Id   |            |            |            |            |            |
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|
 |1           |Ellie       |1           |1           |            |            |            |            |            |
 |2           |Tiger       |2           |1           |            |            |            |            |            |
